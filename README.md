@@ -1,1 +1,3 @@
-# kj-piscine-js
+# my piscine JS
+
+Iryna Velychko / @ivelychk
